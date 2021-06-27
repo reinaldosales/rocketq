@@ -1,5 +1,5 @@
 <h1 align="center">
-  <h3> Rocket.Q
+  Rocket.Q
 </h1>
 
 <p align="center">
